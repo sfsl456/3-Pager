@@ -1,0 +1,22 @@
+header {background-color:#6666ff;
+height:250px}
+nav ul li{text-decoration:none;background-color:#ccccff
+;color;##e6e6ff;
+	border-radius:8px 8px 0px 0px;
+	padding:10px 25px 10px 25px;
+	display:inline}
+nav{position:relative;
+top:52px}
+
+h1{color:#006666}
+h3{color: #00ccff}
+p{color: #008fb3}
+.button{text-decoration:none;background-color:#6666ff;color: #a64dff;padding: 10px 25px 10px 25px; border-radius:8px;}
+
+.button:hover{background-color:#008fb3
+;}
+footer{
+	background-color:#6666ff;
+	padding:25px;margin-top:28px;
+}
+footer p{color:#ffffff;text-align:center;}
